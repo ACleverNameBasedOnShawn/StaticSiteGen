@@ -1,3 +1,3 @@
 python src/main.py
-python server.py --dir private
+python server.py --dir public
         
